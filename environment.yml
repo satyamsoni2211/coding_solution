@@ -3,10 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyter=1.0.0=py37_7
-  - jupyterlab=0.35.4=py37hf63ae98_0
-  - jupyterlab_server=0.2.0=py37_0
-  - python=3.7.3=h359304d_0
+  - jupyter=1.0.0
+  - python=3.7.3
   - pip:
     - distro==1.4.0
     - pdf-statement-reader==0.1.3
